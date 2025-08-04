@@ -32,6 +32,6 @@ Estudiante de Ingeniería Civil, con pasión por el **diseño estructural** y la
 
 ## **Proyectos Académicos**  
 - **Máximas Precipitaciones Diarias**: Uso de Rstudio para las máximas precipitaciones diarias con el fin de realizar curvas IDF.  
-- **LaTeX**: Diseño de estructuras básicas para proyectos universitarios.
+- **LaTeX**: Documentación de ejercicios de Análisis Estructural I.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusSantosD&locale=es&title_color=27374D&text_color=526D82&bg_color=DDE6ED)](https://github.com/JesusSantosD/github-readme-stats)
